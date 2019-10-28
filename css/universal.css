@@ -14,10 +14,11 @@ nav {
 	font-family: Raleway, sans-serif;
 }
 
-nav a {
+nav a, nav p {
 	float: right;
 }
 
-nav h1 {
+nav h2 {
 	float: left;
+	display: inline;
 }
