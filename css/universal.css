@@ -12,10 +12,16 @@ nav {
 	background-color: rgb(29, 11, 110);
 	color: white;
 	font-family: Raleway, sans-serif;
+	position: fixed;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
 }
 
 nav a, nav p {
 	float: right;
+	margin-bottom: 5px;
 }
 
 nav h2 {
