@@ -23,7 +23,11 @@
 		}
 		
 		urldata = parseURLParams(window.location.href);
-		document.write(urldata);
+		if(urldata.path){
+			
+		} else {
+			window.location.replace('https://thenorthernwarrior.github.io')
+		}
 	</script>
 	</head>
 	<body>
