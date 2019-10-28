@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300|Roboto&display=swap');
+
+* {
+	font-family: Roboto, sans-serif;
+}
+
+nav {
+	background-color: rgb(29, 11, 110);
+	color: white;
+	font-family: Raleway, sans-serif;
+	float: right;
+}
+
+nav h1 {
+	float: left;
+}
