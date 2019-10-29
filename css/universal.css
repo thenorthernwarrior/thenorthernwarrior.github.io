@@ -37,6 +37,5 @@ nav a, nav p {
 nav h2 {
 	display: inline;
 	padding-left: 5px;
-	margin-bottom: auto;
-	margin-top: auto;
+	margin: 0 0 auto auto;
 }
